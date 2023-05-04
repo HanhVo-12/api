@@ -1,0 +1,36 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Hanh Vo",
+            "address": "Go Vap"
+        },
+        {
+            "id": 2,
+            "name": "Mien Le",
+            "address": "Quan 11"
+        },
+        {
+            "id": 3,
+            "name": "Mai My",
+            "address": "Tan Binh"
+        },
+        {
+            "id": 4,
+            "name": "Mai Tran",
+            "address": "Quan 3"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "nameProduct": "dien thoai",
+            "type": "samsung"
+        },
+        {
+            "id": 2,
+            "nameProduct":"may tinh",
+            "type": "Apple"
+        }
+    ]
+}
